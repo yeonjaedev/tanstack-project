@@ -1,89 +1,19 @@
 {
-  "todos": [
-    {
-      "id": 1,
-      "title": "화분에 물주기",
-      "isComplete": false
-    },
-    {
-      "id": 2,
-      "title": "운동하기",
-      "isComplete": false
-    },
-    {
-      "id": 3,
-      "title": "공부하기",
-      "isComplete": false
-    },
-    {
-      "id": "qds16hppxc",
-      "title": "ㄹㄹㄹㄹ",
-      "isComplete": false
-    },
-    {
-      "id": "6cy1cus25r",
-      "title": "ㄹㄹㄹㄹ",
-      "isComplete": false
-    },
-    {
-      "id": "6orww55uc6",
-      "title": "121212",
-      "isComplete": false
-    },
-    {
-      "id": "hzf3asqz0o",
-      "title": "23232",
-      "isComplete": false
-    },
-    {
-      "id": "ykdgru92xb",
-      "title": "55555",
-      "isComplete": false
-    },
-    {
-      "id": "3c95pan3ih",
-      "title": "151515",
-      "isComplete": false
-    },
-    {
-      "id": "yryg8k0c1n",
-      "title": "12515125",
-      "isComplete": false
-    },
-    {
-      "id": "rjd2j4eei4",
-      "title": "252525252",
-      "isComplete": false
-    },
-    {
-      "id": "k5dl1uncta",
-      "title": "1111",
-      "isComplete": false
-    },
-    {
-      "id": "tw4vc3u14z",
-      "title": "33333",
-      "isComplete": false
-    },
-    {
-      "id": "mpz4ur3bpf",
-      "title": "33333",
-      "isComplete": false
-    },
-    {
-      "id": "ha1tk07w3l",
-      "title": "1414141",
-      "isComplete": false
-    },
-    {
-      "id": "t1gsijd35c",
-      "title": "11111",
-      "isComplete": false
-    },
-    {
-      "id": "uevs0ojv85",
-      "title": "테스트",
-      "isComplete": false
-    }
-  ]
+    "todos": [
+        {
+            "id": 1,
+            "title": "화분에 물주기",
+            "isComplete": false
+        },
+        {
+            "id": 2,
+            "title": "운동하기",
+            "isComplete": false
+        },
+        {
+            "id": 3,
+            "title": "공부하기",
+            "isComplete": false
+        }
+    ]
 }
